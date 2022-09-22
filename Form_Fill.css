@@ -1,0 +1,217 @@
+
+/*Heading*/
+
+body{
+
+	background-image: url(img1.jpg);
+	font-weight: bold;
+	text-decoration-color: white;
+}
+fieldset{
+		opacity: 0.7;
+		border-radius: 0px 20px 0px 20px;
+		color: white;
+		background-color: rgb(110, 67, 67);
+
+
+}
+.container4{
+	width: 1000px;
+}
+legend {
+	border-radius: 0px 10px 0px 10px;
+  padding: 5px 10px;
+  background-color: rgb(48, 9, 9);
+  color: white;
+}
+
+
+h1{
+	text-align: center;
+	padding-top: 2px;
+
+}
+
+	/*Persional Details part*/
+/*label{
+	width: 100px;
+	display: inline-block;
+	margin-right: 30px;
+	font-size: 20px;
+	padding: 0 20px;
+}*/
+
+
+	/*Education Details*/
+
+.container{
+
+	width: 1000px; height: 200px;
+
+}
+.col1,.col2,.col3,.col4,.col5{
+
+
+	width: 200px;  float: left;
+	margin-top: 10px;
+	font-size: 20px;
+	display: inline-block;
+}	
+.col1 ol li{
+
+	margin-left: 20px;
+	padding: 7px;
+}
+.col2 label{
+
+	margin-top: 10%;
+}
+.col2 label input[type=text] ,input[type=text],input[type=text]{
+
+	padding: 7px;
+	margin: 2px;
+}
+.col4 input[type=date],input[type=date],input[type=date]{
+
+	padding: 6px;
+	margin: 2px;
+	margin-left: 10px;
+}
+.col5 label{
+
+	margin-top: 10%;
+
+
+}
+.col5 input[type=number],input[type=number],input[type=number]{
+
+	padding: 7px;
+	margin: 2px;
+}
+
+	/*Work Expriance*/
+
+
+.exp1,.exp2,.exp3,.exp4,.exp5{
+
+
+	width: 200px;  float: left;
+	margin-top: 10px;
+	font-size: 20px;
+	display: inline-block;
+}	
+
+.exp1 ol li{
+
+	margin-left: 20px;
+	padding: 7px;
+}
+
+.exp2 label input[type=text] ,input[type=text],input[type=text]{
+
+	padding: 7px;
+	margin: 2px;
+}
+.exp2 label{
+
+	margin-top: 10%;
+}
+.exp3 label{
+	margin-top: 0px;
+}
+
+
+.exp3 label input[type=text] ,input[type=text],input[type=text]{
+
+	padding: 7px;
+	margin: 2px;
+}
+.exp4 label{
+	margin-top: 18px;
+}
+
+.exp4 input[type=date],input[type=date],input[type=date]{
+
+	padding: 6px;
+	margin: 2px;
+	margin-left: 10px;
+}
+
+.exp5 label{
+
+	margin-top: 9%;
+
+
+}
+.exp5 input[type=date],input[type=date],input[type=date]{
+
+	padding: 7px;
+	margin: 2px;
+}
+
+
+	/*Other Details*/
+
+.container3{
+
+	margin-right: 30px;
+	font-size: 20px;
+	display: inline-block;
+	width: 1000px;
+
+
+}
+.de1{
+	margin: 3px;
+	padding: 4px;
+}
+.de1 input[type=radio],input[type=radio],input[type=radio]{
+
+	margin-left: 10%;
+
+}
+.de2{
+	margin: 3px;
+	padding: 4px;
+}
+.de3{
+	margin: 3px;
+	padding: 4px;
+}
+.de4{
+	margin: 3px;
+	padding: 4px;
+}
+.de5{
+	margin: 3px;
+	padding: 4px;
+}
+.de6{
+	margin: 3px;
+	padding: 4px;
+
+
+}
+button{
+	background-color: rgb(48, 9, 9);
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin-left: 30%;
+  cursor: pointer;
+  border-radius: 5px;
+
+
+}
+
+
+
+
+
+
+
+
+
